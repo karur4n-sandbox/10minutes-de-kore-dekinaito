@@ -1,5 +1,7 @@
 # 10minutes-de-kore-dekinaito
 
+Initial commit の時点で、10分で書ききれてないです。
+
 ## Usage
 
 ```she
